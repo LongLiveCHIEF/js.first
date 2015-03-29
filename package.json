@@ -1,0 +1,32 @@
+{
+  "name": "js.first",
+  "version": "0.0.0",
+  "description": "A beginners book for learning javascript development from a \"javascript first\" approach. (instead of web-based educational approach)",
+  "main": "index.js",
+  "dependencies": {
+    "canvas": "^1.2.1",
+    "gitbook-plugin-autocover": "^1.2.1"
+  },
+  "devDependencies": {
+    "canvas": "^1.2.1",
+    "gitbook-cli": "^0.3.2",
+    "gitbook-plugin-autocover": "^1.2.1"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LongLiveCHIEF/js.first.git"
+  },
+  "keywords": [
+    "gitbook",
+    "javscript-education"
+  ],
+  "author": "Brian Vanderbusch <brian@normalgravity.com> (https://github.com/LongLiveCHIEF)",
+  "license": "CC0 1.0 Universal",
+  "bugs": {
+    "url": "https://github.com/LongLiveCHIEF/js.first/issues"
+  },
+  "homepage": "https://github.com/LongLiveCHIEF/js.first"
+}
